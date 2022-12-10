@@ -22,6 +22,9 @@ public class TestProperties {
 		OR.load(fis);
 		
 		System.out.println(config.getProperty("browser"));
+		System.out.println("firefox");
+		System.out.println("chrome");
+		System.out.println("IE");
 		
 		
 		
