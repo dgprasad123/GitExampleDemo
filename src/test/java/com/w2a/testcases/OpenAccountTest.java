@@ -31,6 +31,7 @@ public class OpenAccountTest extends TestBase {
 		Thread.sleep(2000);
 		Alert alert=wait.until(ExpectedConditions.alertIsPresent());		
 		alert.accept();
+		System.out.println("main func inviked");
 		
 		
 		
