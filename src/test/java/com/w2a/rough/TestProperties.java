@@ -33,6 +33,10 @@ public class TestProperties {
 		System.out.println("OK");
 		System.out.println("GOOD");
 		System.out.println("BYE");
+		
+		System.out.println("ADD");
+		System.out.println("MINUS");
+		System.out.println("MULTIOLE");
 				
 	}
 }
