@@ -11,6 +11,8 @@ public class TestTimeStamp {
 		String screenshotName=d.toString().replace(":", "_").replace(" ", "_") + ".jpg";
 		System.out.println(d);
 		System.out.println(screenshotName);
+		System.out.println("Print Test Report");
+		System.out.println("PostJira2");
 
 	}
 
