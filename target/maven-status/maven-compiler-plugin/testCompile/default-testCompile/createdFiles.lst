@@ -1,0 +1,10 @@
+com\w2a\listners\CustomListeners.class
+com\w2a\testcases\BankManagerLoginTest.class
+com\w2a\utilties\TestUtil.class
+com\w2a\rough\TestTimeStamp.class
+com\w2a\rough\TestProperties.class
+com\w2a\utilties\ExtentManager.class
+com\w2a\testcases\OpenAccountTest.class
+com\w2a\utilties\ExcelReader.class
+com\w2a\base\TestBase.class
+com\w2a\testcases\AddCustomerTest.class
